@@ -1,0 +1,62 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    background: #4b2c60;
+    color: white;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p {
+    font-size: 1.2em;
+    margin: 5px 0 0;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #4b2c60;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+}
+
+h3 {
+    margin-top: 15px;
+    color: #333;
+}
+
+ul {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+p, li {
+    font-size: 1em;
+}
+
+.contact p, .contact li {
+    margin: 5px 0;
+}
